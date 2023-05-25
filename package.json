@@ -22,5 +22,8 @@
   "strapi": {
     "uuid": "7f22b5c4-2235-4a10-80e8-16975ffab3ab"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "strapi": "^3.6.11"
+  }
 }
